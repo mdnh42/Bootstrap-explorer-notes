@@ -42,4 +42,13 @@ shadow width height overflow display.
 - Spinner
 - Scorllspy 
 - Pupovers 
-- 
+-
+xs, sm, md, lg, xl, 
+
+Container 
+Flex 
+Grid 
+
+
+Responsive: 
+Container, Row, Cols, Breakpoints, 12 columns with breakpoints. 
