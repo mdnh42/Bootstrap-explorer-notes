@@ -52,3 +52,6 @@ Grid
 
 Responsive: 
 Container, Row, Cols, Breakpoints, 12 columns with breakpoints. 
+Form
+Gutters 
+Modal 
